@@ -11,7 +11,6 @@ A full-stack developer & a software engineering student at the University of Wat
 
 <p align="center">
 <img title="Python" alt="Python" src="https://raw.githubusercontent.com/azselim/azselim/0b9e7d5be3bffdd155f075f62b2ddf7afdba7b1a/assets/python-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-<img title="Python" alt="Python" src="https://raw.githubusercontent.com/azselim/azselim/0b9e7d5be3bffdd155f075f62b2ddf7afdba7b1a/assets/python-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 <img title="Java" alt="Java" src="https://raw.githubusercontent.com/azselim/azselim/0b9e7d5be3bffdd155f075f62b2ddf7afdba7b1a/assets/java-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 <img title="C++" alt="C++" src="https://raw.githubusercontent.com/azselim/azselim/0b9e7d5be3bffdd155f075f62b2ddf7afdba7b1a/assets/cplusplus-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 <img title="C" alt="C" src="https://raw.githubusercontent.com/azselim/azselim/0b9e7d5be3bffdd155f075f62b2ddf7afdba7b1a/assets/c-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
@@ -29,6 +28,7 @@ A full-stack developer & a software engineering student at the University of Wat
 <img title="Flask" alt="Flask" src="https://raw.githubusercontent.com/azselim/azselim/0b9e7d5be3bffdd155f075f62b2ddf7afdba7b1a/assets/flask-original-wordmark.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 <img title="Linux" alt="Linux" src="https://raw.githubusercontent.com/azselim/azselim/0b9e7d5be3bffdd155f075f62b2ddf7afdba7b1a/assets/linux-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 <img title="Raspberry Pi" alt="Raspberry Pi" src="https://raw.githubusercontent.com/azselim/azselim/0b9e7d5be3bffdd155f075f62b2ddf7afdba7b1a/assets/raspberrypi-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+<img title="Netlify" alt="Netlify" src="https://raw.githubusercontent.com/azselim/azselim/0b9e7d5be3bffdd155f075f62b2ddf7afdba7b1a/assets/netlify-original-wordmark.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 </p>
 
 <!--
