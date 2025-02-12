@@ -1,6 +1,6 @@
 ![ViewCount](https://views.whatilearened.today/views/github/azselim/azselim.svg?cache=remove)
 
-## Hey! <img src="https://raw.githubusercontent.com/azselim/azselim/master/wave.gif" width="30">
+## Hey! <img src="https://raw.githubusercontent.com/azselim/azselim/refs/heads/main/wave.gif" width="30">
 
 <!--
 **azselim/azselim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
