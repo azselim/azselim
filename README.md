@@ -2,9 +2,9 @@
 
 ## Hey! <img src="https://raw.githubusercontent.com/azselim/azselim/refs/heads/main/wave.gif" width="30"> I'm Adam,
 
-A full-stack developer & a software engineering student at the University of Waterloo. I love to learn about AI and how it can impact the world, especially in the accessibility space. Some fun facts about me:
+A full-stack developer & a computer science student at the University of Waterloo. I love to learn about AI and how it can impact the world, especially in the accessibility space. Some fun facts about me:
 - I'm at hackathons every other weekend
-- I launched the largest hackathon in Halton [(see our 2024 website here!)](https://2024.eurekahacks.ca/)
+- I launched the largest high school hackathon in Canada [(see our 2024 website here!)](https://2024.eurekahacks.ca/)
 - I like to play guitar and learn languages in my free time
 
 ### My skills include
