@@ -2,8 +2,8 @@
 
 ## Hey! <img src="https://raw.githubusercontent.com/azselim/azselim/refs/heads/main/wave.gif" width="30"> I'm Adam,
 
-A full-stack developer & a computer science student at the University of Waterloo. I love entrepreneurship and learning about using AI to distrupt hard industries, especially in the accessibility space. Some fun facts about me:
-- I'm at hackathons every other weekend
+A full-stack developer & a computer science student at the University of Waterloo. I love entrepreneurship and learning about using AI to reform service industries, especially in the accessibility space. Some fun facts about me:
+- I'm working on a solution that revolutionizes the tech interview
 - I launched the largest high school hackathon in Canada [(see our 2024 website here!)](https://2024.eurekahacks.ca/)
 - I like to play guitar and learn languages in my free time
 
