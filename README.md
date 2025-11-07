@@ -2,7 +2,7 @@
 
 ## Hey! <img src="https://raw.githubusercontent.com/azselim/azselim/refs/heads/main/wave.gif" width="30"> I'm Adam,
 
-A full-stack developer & a (former) computer science student at the University of Waterloo. I love entrepreneurship and learning about using AI to reform service industries, especially in the accessibility space. Some fun facts about me:
+A full-stack developer & a (former) computer science student at the University of Waterloo. I love entrepreneurship and learning about using AI to reform data-driven industries. Some fun facts about me:
 - I'm working on the next industry standard for product insights and market research
 - I ran the largest hackathon in Canada
 - I like to play guitar and learn languages
