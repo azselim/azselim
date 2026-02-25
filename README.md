@@ -2,8 +2,8 @@
 
 ## Hey! <img src="https://raw.githubusercontent.com/azselim/azselim/refs/heads/main/wave.gif" width="30"> I'm Adam,
 
-A full-stack developer & a (former) computer science student at the University of Waterloo. I love entrepreneurship and learning about using AI to reform data-driven industries. Some fun facts about me:
-- I'm working on the next industry standard for product insights and market research
+Co-Founder / CTO of Vallo & prev. computer science student at the University of Waterloo. Some fun facts about me:
+- I'm building cloud sandboxes for coding agents, democratizing systems like Ramp's Inspect
 - I ran the largest hackathon in Canada
 - I like to play guitar and learn languages
 
