@@ -3,7 +3,7 @@
 ## Hey! <img src="https://raw.githubusercontent.com/azselim/azselim/refs/heads/main/wave.gif" width="30"> I'm Adam,
 
 Co-Founder / CTO of Vallo & prev. software engineering student at the University of Waterloo. Some fun facts about me:
-- I'm building cloud sandboxes for coding agents, democratizing systems like Ramp's Inspect
+- I'm building the modern system of record for property management
 - I ran the largest hackathon in Canada
 - I like to play guitar and learn languages
 
